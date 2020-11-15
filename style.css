@@ -2,17 +2,17 @@ html {
   background-image: url("images/chalkboard.jpg");
   background-size: cover;
 }
-
+/*Consider a different background - the pattern library*/
 header {
 	height: 120px;
   text-align: center;
 }
-
+/* general body formatting for consistency across site - font/color */
 body { 
 	font-family: 'Courier New';
   color: whitesmoke
 	}
-
+/*ensure images across entire width */
 .full-width {
 	width: 100%;	
 }
@@ -36,7 +36,7 @@ footer p {
   color: black;
   background-color: whitesmoke;
 }
-
+/* link styling */
 a:link    { color: whitesmoke; }
 a:visited { color: whitesmoke;   }
 a:hover   { color: blanchedalmond }
