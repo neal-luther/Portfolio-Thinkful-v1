@@ -1,0 +1,43 @@
+html {
+  background-image: url("images/chalkboard.jpg");
+  background-size: cover;
+}
+
+header {
+	height: 120px;
+  text-align: center;
+}
+
+body { 
+	font-family: 'Courier New';
+  color: whitesmoke
+	}
+
+.full-width {
+	width: 100%;	
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+h3 {
+  font-size: 14pt;
+  margin: 20px;
+}
+
+p {
+  padding: 20px;
+}
+
+footer p {
+  text-align: center;
+  padding: 10px;
+  color: black;
+  background-color: whitesmoke;
+}
+
+a:link    { color: whitesmoke; }
+a:visited { color: whitesmoke;   }
+a:hover   { color: blanchedalmond }
+a:active  { color: aquamarine;  }
